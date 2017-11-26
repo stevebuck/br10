@@ -1,6 +1,6 @@
 {
   "name": "site",
-  "homepage": "https://rochesterrivermonsters.com",
+  "homepage": "http://rochesterrivermonsters.com",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
