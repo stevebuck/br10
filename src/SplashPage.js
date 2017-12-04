@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './rivermonsters.png';
+import logo from './br10.png';
 
 
 export class SplashPage extends React.Component {
@@ -7,16 +7,8 @@ export class SplashPage extends React.Component {
         return (
                 <div class="site-wrapper">
                   <div class="splash-page">
-                    <div className="row justify-content-md-center">
-                      <div className="col-md-auto">
-                        <img alt="Rochester River Monsters Logo" className="img-fluid splash-image" src={logo}/>
-                      </div>
-                      <div className="row justify-content-md-center">
-                        <div className="splash-name-title">2018 Rochester River Monsters</div>
-                      </div>
-                    </div>
-                    <div className="row justify-content-md-center">
-                      <div className="splash-tagline">#ThisIsOurTime</div>
+                    <div className="col-md-auto">
+                      <img alt="Blaze Riorden" className="img-fluid splash-image" src={logo}/>
                     </div>
                   </div>
                 </div>

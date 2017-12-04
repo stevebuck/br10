@@ -1,13 +1,15 @@
 {
-  "name": "site",
-  "homepage": "http://rochesterrivermonsters.com",
+  "name": "br10",
+  "homepage": "https://blazeriorden.com",
   "version": "0.2.0",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17"
+    "react-router": "^4.2.0",
+    "react-scripts": "1.0.17",
+    "reactjs": "^1.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
